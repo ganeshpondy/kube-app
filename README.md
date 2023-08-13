@@ -1,2 +1,2 @@
 # kube-app
-kubernetes manifest files for Application
+kubernetes created using kops command
